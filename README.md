@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akindu_cfc" target="blank"><img src="https://img.shields.io/twitter/follow/akindu_cfc?logo=twitter&style=for-the-badge" alt="akindu_cfc" /></a> </p>
 
-- 🚘 I’m currently working on a **Driver Fatigue Detection Application**
-
-- 💻 I’m currently learning **React, Node.js, Flutter, Machine Learning and Deep Learning related technologies**
+- 💻 I’m currently learning **React, Node.js, MS Azure, Flutter, Machine Learning and Deep Learning related technologies**
 
 - ✉️ How to reach me - **akindukaru23@gmail.com**
 
